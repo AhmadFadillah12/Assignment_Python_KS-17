@@ -1,6 +1,6 @@
 # PYTN_Assgn_1_Batch 5_Ahmad Fadillah
 
-## Informasi Proyek
+## Informasi
 
 - **Nama**     : Ahmad Fadillah
 - **Kelas**    : KS-17
