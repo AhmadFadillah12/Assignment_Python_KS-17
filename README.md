@@ -8,4 +8,4 @@
 - **Batch**    : 5
 ## Deskripsi
 
-Ini adalah repositori untuk tugas pertama Batch 5 dalam program Python for Data Science di Hacktiv8. Di sini, Anda akan menemukan Tugas yang telah saya kerjakan
+Ini adalah repositori untuk tugas Batch 5 dalam program Python for Data Science di Hacktiv8. Di sini, Anda akan menemukan Tugas yang telah saya kerjakan
