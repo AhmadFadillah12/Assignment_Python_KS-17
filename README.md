@@ -1,5 +1,3 @@
-# PYTN_Assgn_1_Batch 5_Ahmad Fadillah
-
 ## Informasi
 
 - **Nama**     : Ahmad Fadillah
